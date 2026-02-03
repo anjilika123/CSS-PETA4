@@ -1,16 +1,11 @@
-#tiger { 
-	background-image: url(https://i.pinimg.com/originals/7b/39/f9/7b39f9d4743befca963cfa2fc38a759f.gif); 
-    max-width:100%;
-    height: 100vh;
+#tiger {
+    background-color: #000080;
+    background-image: url(https://i.pinimg.com/originals/7b/39/f9/7b39f9d4743befca963cfa2fc38a759f.gif);
+    height: 180vh;
     background-position: center;
-    background-size: cover;   
-
+    background-size: contain;
+    background-repeat: no-repeat;
 }
-
-body {
-	background-color: #000080;
-}
-
 
 
 
