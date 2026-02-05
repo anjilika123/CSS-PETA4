@@ -1,8 +1,12 @@
 body {
-    margin: 0;
-    font-family: "Times New Roman", "Bookman Old Style", serif;
-    background: linear-gradient(to bottom right, #e3f2fd, #bbdefb);
+  margin: 0;
+  padding: 0;
+  background-image: url("https://i.pinimg.com/originals/87/18/fc/8718fce1bf59db9c7c046f38f04ee6e5.gif");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
+
 
 nav {
     background: #0d47a1;
